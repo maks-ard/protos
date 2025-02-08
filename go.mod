@@ -1,1 +1,2 @@
-module protos
+module github.com/maks-ard/protos
+
